@@ -96,3 +96,4 @@ END $$
 
 DELIMITER ;
 
+-- Comentario de Juan Alvarez en el branchJuan_01
